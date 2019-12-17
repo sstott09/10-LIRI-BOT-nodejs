@@ -28,7 +28,7 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 Deployed App Here is the link to the deployed applications--> ![GitHub](https://github.com/sstott09/nodejs/blob/master/liri-node-app.js)
 
 *Concert-this command*: 
-![Foo Fighters](../Assets/Images/concert-this-foo_fighters.png)
+![Foo Fighters]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/spotify-this-learning_to_fly.png)
 ![DEFAULT]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/concert-this-default.png)
 
 * Spotify-this-song command:
