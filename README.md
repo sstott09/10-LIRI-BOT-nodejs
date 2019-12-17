@@ -25,22 +25,22 @@ The app will allow a user to search the Bands in Town Artist Events API for an a
 There are four different commands you can run: (1)concert-this, (2)spotify-this-song, (3)movie-this, (4)do-what-it-says. You must enter "node liri.js" + the command you want to run. Depending on which command is run, a concert will show up, a song, a movie, or the do-what-it-says command.
 
 ### GIFS/VIDEOS/SCREENSHOTS
-Deployed App Here is the link to the deployed applications--> ![GitHub](https://github.com/sstott09/nodejs/blob/master/liri-node-app.js)
+Deployed App Here is the link to the deployed applications--> (https://github.com/sstott09/nodejs/blob/master/liri-node-app.js)
 
-*Concert-this command*: 
+**Concert-this command**: 
 ![Foo Fighters]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/spotify-this-learning_to_fly.png)
 ![DEFAULT]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/concert-this-default.png)
 
-* Spotify-this-song command:
-![Learning_to_Fly](../Assets/Images/spotify-this-learning_to_fly.png)
-![DEFAULT](../Assets/Images/spotify-this-default.png)
+**Spotify-this-song command**:
+![Learning_to_Fly]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/spotify-this-learning_to_fly.png)
+![DEFAULT]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/spotify-this-default.png)
 
-* Movie-this command:
-![DEFAULT](../Assets/Images/movie-this-default.png)
-![The_Godfather](../Assets/Images/movie-this-the_godfather.png)
+**Movie-this command**:
+![The_Godfather]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/movie-this-the_godfather.png)
+![DEFAULT]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/movie-this-default.png)
 
-* Do-what-it-says command:
-![DEFAULT](../Assets/Images/do-what-it-says-default.png)
+**Do-what-it-says command**:
+![DEFAULT]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/do-what-it-says-default.png)
 
 ### Technologies Used
    **[Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)** 
