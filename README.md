@@ -45,9 +45,10 @@ Deployed App Here is the link to the deployed applications--> (https://github.co
 ### Technologies Used
    **[Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)** 
    **[Axios](https://www.npmjs.com/package/axios)** 
-        **[OMDB API](http://www.omdbapi.com)** 
-        **[Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)** 
+     **[OMDB API](http://www.omdbapi.com)** 
+     **[Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)** 
    **[Moment](https://www.npmjs.com/package/moment)** 
    **[DotEnv](https://www.npmjs.com/package/dotenv)** 
-   **HTML**
-   **CSS**
+   **JavaScript**
+   **node.js**
+   **JSON**
