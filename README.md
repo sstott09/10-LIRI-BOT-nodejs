@@ -22,7 +22,7 @@ For this project, I've created a LIRI bot. LIRI is like iPhone's SIRI. However, 
 The app will allow a user to search the Bands in Town Artist Events API for an artist and show the name of the venue, venue location, and date of the event in the terminal. If no band is input, the program will comment, "You need to search a band". The app will also show the artist, songs name, a preview link of the song from Spotify, and the album of the song. If no song is provided, the program will default to "The Sign" by Ace of Base. The movieThis command will show the title, release year, IMDB rating, rotten tomatoes rating, production country, language, plot, and actors of the movie into the terminal. If no movie is provided, "Mr. Nobody" information will appear.
 
 ### Instructions
-There are four different commands you can run: (1)concert-this, (2)spotify-this-song, (3)movie-this, (4)do-what-it-says. You must enter "node liri.js" + the command you want to run. Depending on which command is run, a concert will show up, a song, a movie, or the do-what-it-says command.
+There are four different commands you can run: (1)concert-this, (2)spotify-this-song, (3)movie-this, (4)do-what-it-says. **You must enter "node liri.js" + the command + the search item into the command line of the Terminal or Bash** you want to run. Depending on which command is run, a concert will show up, a song, a movie, or the do-what-it-says command.
 
 ### GIFS/VIDEOS/SCREENSHOTS
 Deployed App Here is the link to the deployed applications--> (https://github.com/sstott09/nodejs/blob/master/liri-node-app.js)
