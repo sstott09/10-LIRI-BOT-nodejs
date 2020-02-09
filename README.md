@@ -1,10 +1,10 @@
 ## University of Denver 
 ## Class: DU_VIRT_FSF_PT_09_2019_U.O.MW
 ## Program: Full Stack Flex Online Part-Time
-## 10- LIRI-BOT-nodejs
+## 10-LIRI-BOT-nodejs
 ...........................................................................................................
 
-### _Language_ Interpretation and Recognition Interface (LIRI-Bot)
+### Language Interpretation and Recognition Interface (LIRI-Bot)
 
 ### About
 For this project, I've created a LIRI bot. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
