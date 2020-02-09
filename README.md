@@ -1,7 +1,7 @@
 ## University of Denver 
 ## Class: DU_VIRT_FSF_PT_09_2019_U.O.MW
 ## Program: Full Stack Flex Online Part-Time
-## 10- LIRI-node-app
+## 10- LIRI-BOT-nodejs
 ...........................................................................................................
 
 ### _Language_ Interpretation and Recognition Interface (LIRI-Bot)
@@ -28,7 +28,7 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 Deployed App Here is the link to the deployed applications--> (https://github.com/sstott09/nodejs/blob/master/liri-node-app.js)
 
 **Concert-this command**: 
-![Foo_Fighters]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/spotify-this-learning_to_fly.png)
+![Foo_Fighters]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/spotify-this-learning_to_fly.png)<br>
 ![DEFAULT]![Alt Text](https://github.com/sstott09/nodejs/blob/master/Assets/Images/concert-this-default.png)
 
 **Spotify-this-song command**:
